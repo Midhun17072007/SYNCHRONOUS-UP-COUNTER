@@ -54,6 +54,7 @@ Developed by:MIDHUN S
 ![EX 11](https://github.com/user-attachments/assets/6c99e525-5738-4c5c-8b96-9a429503aedc)
 
 **TRUTH TABLE**
+
 ![390872869-1f0207a5-07f3-4c60-84a5-f8347947ee09](https://github.com/user-attachments/assets/49d65270-cd1f-49f2-99c2-264f158981d1)
 
 **RESULTS**
